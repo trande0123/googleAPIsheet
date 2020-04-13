@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dhmediaz", "dhmediaz\dhmediaz.csproj", "{8FC110F4-DFAD-4328-B461-9B94D68FB216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC110F4-DFAD-4328-B461-9B94D68FB216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC110F4-DFAD-4328-B461-9B94D68FB216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC110F4-DFAD-4328-B461-9B94D68FB216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC110F4-DFAD-4328-B461-9B94D68FB216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5CA5F71-67FD-49C6-B247-6AFC185734D0}
+	EndGlobalSection
+EndGlobal
